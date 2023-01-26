@@ -464,7 +464,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"Slender"
 				"tall"										"18"
 				"antialias" 								"1"
 				"additive"									"1"
@@ -2770,5 +2770,10 @@
 			"font" "resource/fonts/heebouber.ttf"
 			"name" "HeeboUber2"
 		}
+		"20"
+		{
+			"font" "resource/fonts/Slender by Simoncho Design.ttf"
+			"name" "Slender"
+		}		
 	}
 }

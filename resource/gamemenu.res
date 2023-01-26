@@ -7,8 +7,8 @@
 	}
 	"LightHUD"
 	{
-		"label" 								"LightHUD"
-		"command" 								"engine con_enable 1; toggleconsole; echo LightHUD by Hypnotize"
+		"label" 								"SlenderHUD"
+		"command" 								"engine con_enable 1; toggleconsole; echo based on LightHUD by Hypnotize"
 	}
 	"Servers"
 	{

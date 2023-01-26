@@ -21,7 +21,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"HealthAnchor"
 		"xpos"										"c-150"
-		"ypos"										"c90"
+		"ypos"										"rs1"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"40"

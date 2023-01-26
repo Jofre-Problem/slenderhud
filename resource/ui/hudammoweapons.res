@@ -5,7 +5,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"AmmoAnchor"
 		"xpos"										"c150"
-		"ypos"										"c90"
+		"ypos"										"rs1"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"40"
